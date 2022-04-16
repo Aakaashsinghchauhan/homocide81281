@@ -1,9 +1,9 @@
 # Student-Database-Management
-This is a simple student database management system developed in C++. It utilizes file handling and shows effective implementation of class and object of the programming language. This project will teach you how to add, list, modify and delete records in file in C++ language. 
+Database management system developed in C++. It utilizes file handling and shows effective implementation of class and object of the programming language.
 
 About Student Database Management System:
 
-Basic four features make up most of this project, but you can write your own code to add more features, and make this project more effective and better overall. You can add “Search Records” feature. Here’s a brief overview of the features:
+Here’s a brief overview of the features:
 1.	Add Records
 This feature allows you to add general information records. That includes the student’s name, course and section. All the added records in this student database management system are stored in file.
 2.	List Records
